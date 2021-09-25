@@ -1,0 +1,2 @@
+# inmoov-solidworks
+开源的inmoov人形机器人图纸的solidworks反向工程
